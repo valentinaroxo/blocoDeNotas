@@ -48,3 +48,15 @@ p {
     border-color: #c20101;
     box-shadow: 0 0 5px rgb(224, 34, 34);
 }
+/*Alterar tema*/
+.modoVermelho {
+    background-color: #7c7afe;
+}
+.modoVermelho h1 {
+    color: #0c00ae;
+}
+.modoVermelho #blocoDeNotas:focus{
+    outline: none;
+    border-color: #0015ff;
+    box-shadow: 0 0 5px rgb(8, 0, 255);
+}
